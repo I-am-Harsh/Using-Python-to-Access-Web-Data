@@ -1,6 +1,6 @@
-This is my work for the course - Using Python to Access Web Data
+This is my work for the Coursera Course - Using Python to Access Web Data
 
-Course Link - https://www.coursera.org/learn/python-network-data
+Coursera Link - https://www.coursera.org/learn/python-network-data
 
 Instructor - Charles Severence 
 
@@ -47,3 +47,5 @@ Instruction for Quiz document -
 3 - There may be a few exception where the answer is wrong, In those cases the answer is explicitly mentioned below the screenshot.
 
 NOTE -  Some of the theoretical question may differ due to being shuffled and the order of the option may also differ. 
+
+NOTE -  In case of any confusion regarding how the code works and other issues, you can refer to the worked examples in the course. They will explain each and every line.
