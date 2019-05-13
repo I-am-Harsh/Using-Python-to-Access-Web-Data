@@ -28,9 +28,9 @@ Instruction to use programming codes -
    For linux - 
             ``` sudo apt-get install python-bs4 ``` (for Python 2)
             
-            ``` sudo apt-get install python3-bs4 ``` (for Python 3)
+                sudo apt-get install python3-bs4 (for Python 3)
             
-            For more refer to - https://www.crummy.com/software/BeautifulSoup/bs4/doc/
+    For more refer to - https://www.crummy.com/software/BeautifulSoup/bs4/doc/
             
 3. For windows you need to install pip and then use it to install BS
 
